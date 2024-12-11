@@ -7,4 +7,3 @@
 ![Screenshot 2024-12-10 124541](https://github.com/user-attachments/assets/03dbf6c2-5156-41dc-a03f-985002493ecf)
 
 
-![Screenshot 2024-12-10 125102](https://github.com/user-attachments/assets/bd6d7b53-66dd-425f-aa5d-c46a1013735b)
