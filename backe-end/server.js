@@ -15,7 +15,7 @@ const PORT=8080 || process.env.PORT
 
 
 var corsOptions = {
-  origin: ["http://localhost:3000","http://localhost:3001", "http://example.com"],
+  origin: ["http://localhost:3000","http://localhost:3001", "https://online-shop-fruit.vercel.app/"],
   methods: ["GET", "POST", "PUT", "DELETE"],
   optionsSuccessStatus: 200
 };
